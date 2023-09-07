@@ -1,0 +1,5 @@
+requests~=2.26.0
+loguru~=0.7.0
+peewee~=3.16.2
+telebot~=0.0.5
+python-dotenv~=1.0.0

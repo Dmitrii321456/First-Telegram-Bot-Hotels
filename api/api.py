@@ -1,6 +1,5 @@
 import json
 from pprint import pprint
-
 import requests
 
 url = "https://hotels4.p.rapidapi.com/locations/v2/search"
